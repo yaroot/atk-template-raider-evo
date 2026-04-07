@@ -15,7 +15,7 @@ The one on ATK's website doesn't have marking for the toe plate, which is IMHO u
 - practice on some 2x4s
 - practice on old skis
 - if you're really paranoid install with a different offset first (if using theaded inserts)
-- BSL isn't the same across brands, measure and try it on 2x4s
+- BSLs are not the same across brands, measure and try it on 2x4s
 
 ---
 
