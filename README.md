@@ -17,3 +17,6 @@ The one on ATK's website doesn't have marking for the toe plate, which is IMHO u
 - if you're really paranoid install with a different offset first (if using theaded inserts)
 - BSL isn't the same across brands, measure and try it on 2x4s
 
+---
+
+![](https://raw.githubusercontent.com/yaroot/atk-template-raider-evo/refs/heads/main/raider-evo.svg)
