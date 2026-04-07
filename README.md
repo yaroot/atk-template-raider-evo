@@ -11,6 +11,7 @@ The one on ATK's website doesn't have marking for the toe plate, which is IMHO u
 
 ## Notes for first timer
 
+- nail the center line, nail the punch, if done carefully the paper template results are better then the jigs
 - do yourself a favor by using threaded inserts on skis (just normal ones plus some epoxy will do)
 - practice on some 2x4s
 - practice on old skis
